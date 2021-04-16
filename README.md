@@ -1,2 +1,2 @@
 # HTML-CSS-JS
-Projetos, testes, atividade correlacionadas a Html, css e JavaScript.
+Projetos, testes e atividades relacionadas a HTML, CSS e JavaScript.
